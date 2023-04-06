@@ -1,0 +1,47 @@
+.headers {
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+.images {
+    width: 300px;
+    height: auto
+}
+
+.chef {
+    width: 300px;
+    height: auto;
+}
+
+.background {
+    background-color: rgb(189, 189, 189);
+}
+
+.centerAll {
+    text-align: center;
+}
+
+.list {
+    list-style: none;
+    font-size: 34px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.link {
+    text-decoration:none;
+}
+
+.link:hover{
+    text-decoration: underline;
+}
+
+.ingredients {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 34px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.listFoods {
+    font-style: italic;
+    font-size: 18px;
+}
